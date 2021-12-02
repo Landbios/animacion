@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/gatocorredor1"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor2"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor3"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor4"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor5"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor6"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor7"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor8"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor9"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor10"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor11"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor12"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor13"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor14"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor15"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor16"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor17"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor18"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor19"
+        android:duration="100"/>
+    <item android:drawable="@drawable/gatocorredor20"
+        android:duration="100"/>
+
+
+</animation-list>
